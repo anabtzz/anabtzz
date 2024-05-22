@@ -9,11 +9,20 @@
 git comanders codes
 
 cd desktop
+
 cs "nome pasta"
+
 git config --global user.name"anabtzz"
+
 git config --global user.email"anaby65@gmail.com"
+
 git add .
+
 git status 
+
 git commit -m "commit desc"
+
 git log 
+
 git clear
+
