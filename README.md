@@ -10,7 +10,7 @@ git comanders codes
 
 cd desktop
 
-cs "nome pasta"
+cd "nome pasta"
 
 git config --global user.name"anabtzz"
 
