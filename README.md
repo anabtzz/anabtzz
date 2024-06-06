@@ -1,9 +1,11 @@
-- Ana Beatriz
+- Ana Beatriz Abreu dos Santos
 - 17y
+- Sistem Developement
 - **PT**-*ENG-KOR*
-- 12th grade – Junior
+- 12th grade – Junior (3° Ano)
 
-![hif7](https://github.com/anabtzz/anabtzz/assets/128055760/6d98454d-20c9-452b-9587-7507bcbb7e3c)
+
+https://github.com/anabtzz/anabtzz/assets/128055760/1343c143-7f25-46d8-b555-306ca627b327
 
 
 ### Contatos:
