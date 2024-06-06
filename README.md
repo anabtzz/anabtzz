@@ -3,10 +3,7 @@
 - **PT**-*ENG-KOR*
 - 12th grade – Junior
 
-<div align="center"> 
-  <img src="![hif7](https://github.com/anabtzz/anabtzz/assets/128055760/e2c4670f-3462-41ed-84d9-ec070f154a95)">
-</div>
-
+![hif7](https://github.com/anabtzz/anabtzz/assets/128055760/6d98454d-20c9-452b-9587-7507bcbb7e3c)
 
 
 ### Contatos:
