@@ -3,26 +3,5 @@
 - **PT**-*ENG-KOR*
 - 12th grade – Junior
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabtzz&show_icons=true&bg_color=00000000) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabtzz&show_icons=true&bg_color=00000000)
-
-git comanders codes
-
-cd desktop
-
-cd "nome pasta"
-
-git config --global user.name"anabtzz"
-
-git config --global user.email"anaby65@gmail.com"
-
-git add .
-
-git status 
-
-git commit -m "commit desc"
-
-git log 
-
-clear
+![gif9](https://github.com/anabtzz/anabtzz/assets/128055760/2985773e-fb9c-418c-8c5c-1c344d9467d4)
 
