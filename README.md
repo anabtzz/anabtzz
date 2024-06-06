@@ -4,7 +4,7 @@
 - 12th grade – Junior
 
 <div align="center"> 
-  <![hif7](https://github.com/anabtzz/anabtzz/assets/128055760/5a2bac7d-dd95-4e50-a184-ac642ba396ed)> 
+  <img src="![hif7](https://github.com/anabtzz/anabtzz/assets/128055760/e2c4670f-3462-41ed-84d9-ec070f154a95)">
 </div>
 
 
