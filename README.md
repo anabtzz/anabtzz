@@ -2,7 +2,7 @@
 - 17y
 - Sistems Development
 - **PT**-*ENG-KOR*
-- 12th grade – Junior (3° Ano)
+- 12th grade – Senior (3° Ano)
   
 
 ![fe9efe7e-32b7-427e-92b0-9da08b7bae87](https://github.com/anabtzz/anabtzz/assets/128055760/89ccc20a-6f11-4842-b478-7b054913641a)
