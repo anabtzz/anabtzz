@@ -1,7 +1,8 @@
 - Ana Beatriz Abreu dos Santos
 - Brazil
 - 18y
-- Sistems Development
+- Design★
+- Graduated in technical Systems Development
 - **PT**-*ENG-KOR*
 
   
